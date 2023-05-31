@@ -31,3 +31,7 @@
   <a href="https://www.linkedin.com/in/adhayne-ferreira-a11045247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+ <h2><i> Design is not just what it looks like and feels like. Design is how it works! <i/><h2/>
+ 
+ ![Snake animation](https://github.com/TayAntony/TayAntony/blob/output/github-contribution-grid-snake.svg)
